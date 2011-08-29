@@ -1,20 +1,17 @@
 /****************************************************************************
 *                                                                           *
-*   Nite 1.3 - Point Viewer                                                 *
+*   手指识别程序                                               *
 *                                                                           *
-*   Author:     Oz Magal                                                    *
+*   作者：张维祥                                                  *
 *                                                                           *
 ****************************************************************************/
 
 /****************************************************************************
 *                                                                           *
-*   Nite 1.3	                                                            *
-*   Copyright (C) 2006 PrimeSense Ltd. All Rights Reserved.                 *
-*                                                                           *
-*   This file has been provided pursuant to a License Agreement containing  *
-*   restrictions on its use. This data contains valuable trade secrets      *
-*   and proprietary information of PrimeSense Ltd. and is protected by law. *
-*                                                                           *
+*   基于Nite 1.3完成                                                            *
+       版本：v1.0
+
+*          时间：2011-8-29                                                                 *
 ****************************************************************************/
 
 #include "stdafx.h"
